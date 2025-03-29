@@ -1,3 +1,1 @@
-mysql:8
-moxm/java:1.8-full
-nginx
+alpine:3.21
