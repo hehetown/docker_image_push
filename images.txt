@@ -1,1 +1,1 @@
-tomcat:8.5.100-jre8
+mayanghua/instock:latest
