@@ -1,1 +1,1 @@
-mayanghua/instock:latest
+mudrex/python-ta-lib:v0.0.1
