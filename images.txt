@@ -1,1 +1,1 @@
-grafana/grafana:latest
+grafana/grafana:12.0.2
