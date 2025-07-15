@@ -1,1 +1,1 @@
-grafana/grafana:12.0.2
+postgres:latest
