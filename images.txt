@@ -1,1 +1,2 @@
-kubesphere/pause:3.9 --platform=linux/arm64
+kubesphere/pause:3.9 
+--platform=linux/arm64
