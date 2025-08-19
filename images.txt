@@ -1,1 +1,1 @@
---platform=linux/arm64 kubesphere/pause:3.9
+rancher/rancher:v2.12.0-arm64
