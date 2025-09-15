@@ -1,1 +1,2 @@
-nginx:1.28.0
+eipwork/kuboard-spray:v1.2.4-arm64
+eipwork/kuboard-spray:v1.2.4-amd64
