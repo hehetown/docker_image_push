@@ -1,1 +1,1 @@
---platform=linux/arm64 minstonehub/nacos-peer-finder-plugin:1.1
+grafana/grafana-enterprise
